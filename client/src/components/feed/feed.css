@@ -1,0 +1,9 @@
+.feed{
+  flex: 5.5;
+}
+
+.feedWrapper{
+  padding: 20px;
+}
+
+/* flex ranges from 1 to 12 it is same as giving 1st div 25% 2nd div 50% and 3rd div 25% so in flex we can give 1st div flex:3 2nd div flex:6 3rd div flex:3 total must be 12 also it is better to use flex */
